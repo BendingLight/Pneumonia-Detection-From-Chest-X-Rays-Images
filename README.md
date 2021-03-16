@@ -1,0 +1,2 @@
+# Pneumonia-Detection-From-Chest-X-Rays-Images
+EDA on the National Institute of Health chest x-ray dataset consists of 112,120 images of 30,805 patients. Cleaning and processing dataset by normalizing intensity, image augmentation, image resizing with Keras. Training and fine tuning of neural network, application model architecture used VVG16 and ResNet50. Tried to implement the CheXNet research paper.
